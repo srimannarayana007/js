@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container {
+    margin-top: 20%;
+    margin-left: 20%;
+    width: 60%;
+    background-color: rgb(205, 180, 134);
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#colorBtn {
+    background-color: #4CAF50;
+    color: white;
+}
